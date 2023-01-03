@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "Zhou Xinliang's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Zhou Xinliang"
 description              : &description "personal description"
