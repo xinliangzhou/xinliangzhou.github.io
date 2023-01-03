@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Zhou Xinliang"
   avatar           : "profile.png"
   bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  location         : "https://www.google.com/maps/place/52+Nanyang+Dr,+Research+Techno+Plaza,+Singapore+637553/@1.3432979,103.6772362,17z/data=!4m13!1m7!3m6!1s0x31da0f74526fc703:0x92833b1682e108b0!2s52+Nanyang+Dr,+Research+Techno+Plaza,+Singapore+637553!3b1!8m2!3d1.3432979!4d103.6794249!3m4!1s0x31da0f74526fc703:0x92833b1682e108b0!8m2!3d1.3432979!4d103.6794249"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "http://yourfullgooglescholarurl.com"
