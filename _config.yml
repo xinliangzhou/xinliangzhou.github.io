@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Zhou Xinliang's Personal Homepage"
+title                    : "Your Name / Site Title"
 title_separator          : "-"
-name                     : &name "Zhou Xinliang"
+name                     : &name "Your Name"
 description              : &description "personal description"
-url                      : https://xinliangzhou.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "xinliangzhou/academicpages.github.io"
+repository               : "academicpages/academicpages.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,14 +80,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Zhou Xinliang"
+  name             : "Your Sidebar Name"
   avatar           : "profile.png"
-  bio              : "Second Year PhD Student @ NTU..."
-  location         : "Singapore"
+  bio              : "Your biography for the left-hand sidebar"
+  location         : "Location"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=EoiH18QAAAAJ&hl=en&inst=10972715779114120479&oi=sra"
-  email            : "xinliang001@e.ntu.edu.sg"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
+  email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -227,7 +227,7 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  _portfolio
+  # _portfolio
   - scope:
       path: ""
       type: portfolio
@@ -236,7 +236,7 @@ defaults:
       author_profile: true
       share: true
       comment: true
-  _talks
+  # _talks
   - scope:
       path: ""
       type: talks
