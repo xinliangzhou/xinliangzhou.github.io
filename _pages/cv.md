@@ -16,15 +16,12 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* June 2022 - Present: Research Assistant
+  * Nanyang Technological University
+  * Duties included: Developing new algorithms for robust and fancy EEG Systems
+  * Supervisor: Prof Liu Yang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+
   
 Skills
 ======
