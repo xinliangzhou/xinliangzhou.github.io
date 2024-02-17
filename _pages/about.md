@@ -13,8 +13,13 @@ I am a third year PhD candidate at Nanyang Technological University (NTU), Singa
 Selected Publications
 ======
 
-** Conference Papers **
+Conference Papers
+------
 1. **S. S. Kshirsagar**, S. S. Rane, and S. S. Kulkarni, "A Novel Approach for EEG-based Emotion Recognition using Deep Learning," in *Proceedings of the 2020 IEEE International Conference on Systems
+
+Journal Papers
+------
+1. **S. S. Kshirsagar**, S. S. Rane, and S. S. Kulkarni, "A Novel Approach for EEG-based Emotion Recognition using Deep Learning," *IEEE Transactions on Neural Networks and Learning Systems*, 2020.
 
 Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
