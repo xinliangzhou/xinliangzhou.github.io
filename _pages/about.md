@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year PhD candidate at Nanyang Technological University (NTU), Singapore. I strive to develop novel time series data mining, machine learning, and deep learning algorithms. In addition, I am also interested in a broad range of physiological time series applications in Brain Computer Interface, especially focusing on the AI interpretability and Robustness. 
+I am a third year PhD candidate at Nanyang Technological University (NTU), Singapore, developing innovative time series data mining, machine learning, and deep learning methods. My research focuses on advancing interpretable and robust artificial intelligence algorithms for physiological time series analysis, with particular interest in electroencephalography (EEG)-based brain-computer interfaces. Through my PhD work, I aim to create generalizable frameworks for reliable and trustworthy AI systems that can enable real-world healthcare and neural engineering applications.
 
 A data-driven personal website
 ======
