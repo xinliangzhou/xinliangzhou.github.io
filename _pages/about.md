@@ -10,12 +10,12 @@ redirect_from:
 
 I am a third year PhD candidate at Nanyang Technological University (NTU), Singapore, developing innovative time series data mining, machine learning, and deep learning methods. My research focuses on advancing interpretable and robust artificial intelligence algorithms for physiological time series analysis, with particular interest in electroencephalography (EEG)-based brain-computer interfaces. Through my PhD work, I aim to create generalizable frameworks for reliable and trustworthy AI systems that can enable real-world healthcare and neural engineering applications.
 
-Selected Publications
+Publications
 ======
 
 Conference Papers
 ------
-1. **S. S. Kshirsagar**, S. S. Rane, and S. S. Kulkarni, "A Novel Approach for EEG-based Emotion Recognition using Deep Learning," in *Proceedings of the 2020 IEEE International Conference on Systems
+1. Jia, Z., Ji, J., **Zhou, X<sup>*</sup>**., & Zhou, Y. (2022). Hybrid spiking neural network for sleep electroencephalogram signals. Science China Information Sciences, 65(4), 140403.
 
 Journal Papers
 ------
