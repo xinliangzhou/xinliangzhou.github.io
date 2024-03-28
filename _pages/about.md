@@ -16,7 +16,7 @@ Publications
 Conference Papers
 ------
 1. **VBH-GNN: Variational Bayesian Heterogeneous Graph Neural Networks for Cross-subject Emotion Recognition**  
-   - Chenyu Liu†, Xinliang Zhou†, Zhengri Zhu, Liming Zhai*, Ziyu Jia*, and Yang Liu*  
+   - Chenyu Liu &dagger;, Xinliang Zhou &dagger;, Zhengri Zhu, Liming Zhai*, Ziyu Jia*, and Yang Liu*  
    *The Twelfth International Conference on Learning Representations (ICLR 2024)*
 
 2. **An EEG Channel Selection Framework for Driver Drowsiness Detection via Interpretability Guidance**  
@@ -32,11 +32,11 @@ Conference Papers
    *The 2023 IEEE Conference on Artificial Intelligence (IEEE CAI 2023)*
 
 5. **Graph Neural Networks in EEG-based Emotion Recognition: A Survey**  
-    - Chenyu Liu†, Xinliang Zhou†, Yihao Wu, Ruizhi Yang, Liming Zhai, Ziyu Jia, and Yang Liu*  
+    - Chenyu Liu &dagger;, Xinliang Zhou &dagger;, Yihao Wu, Ruizhi Yang, Liming Zhai, Ziyu Jia, and Yang Liu*  
     *Under Review and Submitted to the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)*
 
 6. **VSGT: Variational Spatial and Gaussian Temporal Graph Models for EEG-based Emotion Recognition**     (*Preprint*)
-    - Chenyu Liu†, Xinliang Zhou†, Jiaping Xiao, Liming Zhai, Ziyu Jia, and Yang Liu  
+    - Chenyu Liu &dagger;, Xinliang Zhou &dagger;, Jiaping Xiao, Liming Zhai, Ziyu Jia, and Yang Liu  
     <!-- *Under Review and Submitted to a Top Tier Double Blind Conference* -->
 
 
