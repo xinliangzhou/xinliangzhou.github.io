@@ -48,18 +48,19 @@ Journal Papers
 
 2. **Interpretable and Robust AI in EEG Systems: A Survey**  
    - Xinliang Zhou, Chenyu Liu, Liming Zhai, Ziyu Jia, Cuntai Guan, and Yang Liu*  
-   *Under Review and Submitted to IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)*
+   <!-- *Under Review and Submitted to IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)* -->
+   
 
 3. **Learning Robust Global-Local Representations from EEG for Neural Epilepsy Detection**  
    - Xinliang Zhou, Chenyu Liu, Ruizhi Yang, Liangwei Zhang, Liming Zhai, Ziyu Jia*, and Yang Liu  
-   *Under Review and Submitted to IEEE Transactions on Neural Artificial Intelligence (IEEE TAI)*
+   <!-- *Under Review and Submitted to IEEE Transactions on Neural Artificial Intelligence (IEEE TAI)* -->
 
 4. **Learning Relational Probabilistic Graphs for EEG-based Emotion Recognition**  
    - Xinliang Zhou, Chenyu Liu, Jiaping Xiao, Liming Zhai, Ziyu Jia*, and Yang Liu  
-   *Under Review and Submitted to IEEE Transactions on Affective Computing (IEEE TAFFC)*
+   <!-- *Under Review and Submitted to IEEE Transactions on Affective Computing (IEEE TAFFC)* -->
 
 5. **Learning Robust Global-Local Representation from EEG for Neural Epilepsy Detection**  
    - Shaozhe Liu, Leike An, Xinliang Zhou, Xiaoqun Ning, and Ziyu Jia*  
-   *Under Review and Submitted to IEEE Transactions on Neural Cybernetics (IEEE TCYB)*
+   <!-- *Under Review and Submitted to IEEE Transactions on Neural Cybernetics (IEEE TCYB)* -->
 
 
