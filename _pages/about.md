@@ -16,15 +16,13 @@ Publications
 Conference Papers
 ------
 1. **VBH-GNN: Variational Bayesian Heterogeneous Graph Neural Networks for Cross-subject Emotion Recognition** [[PDF]](https://openreview.net/pdf?id=EArTDUmILF) 
-   - Chenyu Liu <sup>†</sup>, Xinliang Zhou <sup>†</sup>, Zhengri Zhu, Liming Zhai*, Ziyu Jia*, and Yang Liu
-
-   <span style="color:#B0E0E6">  *The Twelfth International Conference on Learning Representations ( ICLR 2024 )*</span> 
+   - Chenyu Liu <sup>†</sup>, Xinliang Zhou <sup>†</sup>, Zhengri Zhu, Liming Zhai, Ziyu Jia<sup>*</sup>, and Yang Liu
+   <span style="color:#AFEEEE">  *The Twelfth International Conference on Learning Representations ( ICLR 2024 )*</span> 
  
 
 2. **An EEG Channel Selection Framework for Driver Drowsiness Detection via Interpretability Guidance**  
    - Xinliang Zhou, Dan Lin, Ziyu Jia*, Jiaping Xiao, Chenyu Liu, Liming Zhai*, and Yang Liu  
-   
-     <span style="color:#B0E0E6">  *45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society ( EMBC 2023 )*</span> 
+   <span style="color:#B0E0E6">  *45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society ( EMBC 2023 )*</span> 
 
 3. **EEG-based Sleep Staging with Hybrid Attention**  
    - Xinliang Zhou, Chenyu Liu, Jiaping Xiao, and Yang Liu*  
