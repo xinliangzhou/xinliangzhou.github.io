@@ -17,7 +17,8 @@ Conference Papers
 ------
 1. **VBH-GNN: Variational Bayesian Heterogeneous Graph Neural Networks for Cross-subject Emotion Recognition** [[PDF]](https://openreview.net/pdf?id=EArTDUmILF) 
    - Chenyu Liu <sup>†</sup>, Xinliang Zhou <sup>†</sup>, Zhengri Zhu, Liming Zhai, Ziyu Jia<sup>*</sup>, and Yang Liu
-   <span style="color:#AFEEEE">  *The Twelfth International Conference on Learning Representations ( ICLR 2024 )*</span> 
+   
+      <span style="color:#AFEEEE">*The Twelfth International Conference on Learning Representations ( ICLR 2024 )*</span> 
  
 
 2. **An EEG Channel Selection Framework for Driver Drowsiness Detection via Interpretability Guidance**  
