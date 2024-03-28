@@ -35,9 +35,9 @@ Conference Papers
     - Chenyu Liu†, Xinliang Zhou†, Yihao Wu, Ruizhi Yang, Liming Zhai, Ziyu Jia, and Yang Liu*  
     *Under Review and Submitted to the 33rd International Joint Conference on Artificial Intelligence (IJCAI 2024)*
 
-6. **VSGT: Variational Spatial and Gaussian Temporal Graph Models for EEG-based Emotion Recognition**  
+6. **VSGT: Variational Spatial and Gaussian Temporal Graph Models for EEG-based Emotion Recognition**     (*Preprint*)
     - Chenyu Liu†, Xinliang Zhou†, Jiaping Xiao, Liming Zhai, Ziyu Jia, and Yang Liu  
-    *Under Review and Submitted to a Top Tier Double Blind Conference*
+    <!-- *Under Review and Submitted to a Top Tier Double Blind Conference* -->
 
 
 Journal Papers
@@ -46,20 +46,20 @@ Journal Papers
    - Ziyu Jia*, Junyu Ji, Xinliang Zhou*, and Yuhan Zhou  
    *Science China Information Sciences 65.4 (2022): 140403.*
 
-2. **Interpretable and Robust AI in EEG Systems: A Survey**  
+2. **Interpretable and Robust AI in EEG Systems: A Survey**  (*Preprint*)
    - Xinliang Zhou, Chenyu Liu, Liming Zhai, Ziyu Jia, Cuntai Guan, and Yang Liu*  
    <!-- *Under Review and Submitted to IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)* -->
-   
 
-3. **Learning Robust Global-Local Representations from EEG for Neural Epilepsy Detection**  
+
+3. **Learning Robust Global-Local Representations from EEG for Neural Epilepsy Detection**  (*Preprint*)
    - Xinliang Zhou, Chenyu Liu, Ruizhi Yang, Liangwei Zhang, Liming Zhai, Ziyu Jia*, and Yang Liu  
    <!-- *Under Review and Submitted to IEEE Transactions on Neural Artificial Intelligence (IEEE TAI)* -->
 
-4. **Learning Relational Probabilistic Graphs for EEG-based Emotion Recognition**  
+4. **Learning Relational Probabilistic Graphs for EEG-based Emotion Recognition**  (*Preprint*)
    - Xinliang Zhou, Chenyu Liu, Jiaping Xiao, Liming Zhai, Ziyu Jia*, and Yang Liu  
    <!-- *Under Review and Submitted to IEEE Transactions on Affective Computing (IEEE TAFFC)* -->
 
-5. **Learning Robust Global-Local Representation from EEG for Neural Epilepsy Detection**  
+5. **Learning Robust Global-Local Representation from EEG for Neural Epilepsy Detection** (*Preprint*) 
    - Shaozhe Liu, Leike An, Xinliang Zhou, Xiaoqun Ning, and Ziyu Jia*  
    <!-- *Under Review and Submitted to IEEE Transactions on Neural Cybernetics (IEEE TCYB)* -->
 
