@@ -49,7 +49,7 @@ Conference Papers
 Journal Papers
 ------
 1. **Hybrid Spiking Neural Network for Sleep Electroencephalogram Signals**  [[PDF]](https://link.springer.com/article/10.1007/s11432-021-3380-1)
-   - Ziyu Jia*, Junyu Ji, **Xinliang Zhou***, and Yuhan Zhou  
+   - Ziyu Jia*, Junyu Ji, __Xinliang Zhou__*, and Yuhan Zhou  
   <span style="color:#007CB0">    *Science China Information Sciences 65.4 ( 2022 ): 140403.*</span>
 
 2. **Interpretable and Robust AI in EEG Systems: A Survey**  [[Preprint]](https://arxiv.org/pdf/2304.10755.pdf)
