@@ -88,6 +88,6 @@ Reviewer for Academic Journals
 
 Reviewer for Academic Conferences
 ------  
-- ACM Multimedia (*ACM M*M)
+- ACM Multimedia (*ACM MM*)
 - International Conference on Learning Representations (*ICLR*)
 - The Annual IEEE International Conference on Data Engineering (*ICDE*)
