@@ -22,7 +22,7 @@ Conference Papers
 
 2. **An EEG Channel Selection Framework for Driver Drowsiness Detection via Interpretability Guidance**  
    - Xinliang Zhou, Dan Lin, Ziyu Jia*, Jiaping Xiao, Chenyu Liu, Liming Zhai*, and Yang Liu  
-   <span style="color:#00BFFF">  *45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society ( EMBC 2023 )*</span> 
+   <span style="color:#007CB0">  *45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society ( EMBC 2023 )*</span> 
 
 3. **EEG-based Sleep Staging with Hybrid Attention**  
    - Xinliang Zhou, Chenyu Liu, Jiaping Xiao, and Yang Liu*  
