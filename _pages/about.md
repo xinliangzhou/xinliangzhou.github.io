@@ -67,6 +67,8 @@ Journal Papers
 
 Academic Services
 ======
+<hr style="border: none; height: 1px; color: black; background-color: black;" />
+
 
 Reviewer for Academic Journals
 ------
