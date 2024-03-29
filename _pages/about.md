@@ -17,7 +17,7 @@ Conference Papers
 ------
 1. **VBH-GNN: Variational Bayesian Heterogeneous Graph Neural Networks for Cross-subject Emotion Recognition** [[PDF]](https://openreview.net/pdf?id=EArTDUmILF) 
    - Chenyu Liu <sup>†</sup>, Xinliang Zhou <sup>†</sup>, Zhengri Zhu, Liming Zhai, Ziyu Jia<sup>*</sup>, and Yang Liu<br>
-  <span style="color:#87CEEB">*The Twelfth International Conference on Learning Representations ( ICLR 2024 )*</span> 
+  <span style="color:#007CB0">*The Twelfth International Conference on Learning Representations ( ICLR 2024 )*</span> 
  
 
 2. **An EEG Channel Selection Framework for Driver Drowsiness Detection via Interpretability Guidance**  
@@ -26,11 +26,11 @@ Conference Papers
 
 3. **EEG-based Sleep Staging with Hybrid Attention**  
    - Xinliang Zhou, Chenyu Liu, Jiaping Xiao, and Yang Liu*  
-   <span style="color:#87CEEB">  *The 2023 IEEE Conference on Artificial Intelligence ( IEEE CAI 2023 )*</span> 
+   <span style="color:#007CB0">  *The 2023 IEEE Conference on Artificial Intelligence ( IEEE CAI 2023 )*</span> 
 
 4. **EENED: End-to-End Neural Epilepsy Detection based on Convolutional Transformer**  
    - Chenyu Liu, Xinliang Zhou, and Yang Liu*  
-   <span style="color:#87CEEB">   *The 2023 IEEE Conference on Artificial Intelligence ( IEEE CAI 2023 )*</span>
+   <span style="color:#007CB0">   *The 2023 IEEE Conference on Artificial Intelligence ( IEEE CAI 2023 )*</span>
 
 5. **Graph Neural Networks in EEG-based Emotion Recognition: A Survey**  [[Preprint]](https://arxiv.org/pdf/2402.01138.pdf) 
     - Chenyu Liu <sup>†</sup>, Xinliang Zhou <sup>†</sup>, Yihao Wu, Ruizhi Yang, Liming Zhai, Ziyu Jia, and Yang Liu* 
@@ -45,7 +45,7 @@ Journal Papers
 ------
 1. **Hybrid Spiking Neural Network for Sleep Electroencephalogram Signals**  [[PDF]](https://link.springer.com/article/10.1007/s11432-021-3380-1)
    - Ziyu Jia*, Junyu Ji, Xinliang Zhou*, and Yuhan Zhou  
-  <span style="color:#87CEEB">    *Science China Information Sciences 65.4 ( 2022 ): 140403.*</span>
+  <span style="color:#007CB0">    *Science China Information Sciences 65.4 ( 2022 ): 140403.*</span>
 
 2. **Interpretable and Robust AI in EEG Systems: A Survey**  [[Preprint]](https://arxiv.org/pdf/2304.10755.pdf)
    - Xinliang Zhou, Chenyu Liu, Liming Zhai, Ziyu Jia, Cuntai Guan, and Yang Liu* 
