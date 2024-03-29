@@ -10,7 +10,9 @@ redirect_from:
 
 I am a third year (final year) PhD candidate at Nanyang Technological University (NTU), Singapore, developing innovative time series data mining, machine learning, and deep learning methods. My research focuses on advancing interpretable and robust artificial intelligence algorithms for physiological time series analysis, with particular interest in Electroencephalography (EEG) based Brain Computer Interfaces. Through my PhD work, I aim to create generalizable frameworks for reliable and trustworthy AI systems that can enable real-world healthcare and neural engineering applications.
 
+<br>
 <hr style="border: none; height: 1px; color: black; background-color: black;" />
+
 
 Publications
 ======
@@ -66,7 +68,7 @@ Journal Papers
    - Shaozhe Liu, Leike An, Xinliang Zhou, Xiaoqun Ning, and Ziyu Jia*  
    <!-- *Under Review and Submitted to IEEE Transactions on Neural Cybernetics (IEEE TCYB)* -->
 
-
+<br>
 <hr style="border: none; height: 1px; color: black; background-color: black;" />
 
 
