@@ -16,7 +16,7 @@ I am a third year (Final year) PhD candidate at Nanyang Technological University
 
 Selected Publications
 ======
-<sup>†</sup> Co-first author, <sup>*</sup> Corresponding author
+<sup>†</sup> Co-first Authors, <sup>*</sup> Corresponding Authors
 
 Conference Papers
 ------
