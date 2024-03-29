@@ -20,15 +20,15 @@ Conference Papers
   <span style="color:#007CB0">*The Twelfth International Conference on Learning Representations ( ICLR 2024 )*</span> 
  
 
-2. **An EEG Channel Selection Framework for Driver Drowsiness Detection via Interpretability Guidance**  
+2. **An EEG Channel Selection Framework for Driver Drowsiness Detection via Interpretability Guidance**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/10341126)
    - Xinliang Zhou, Dan Lin, Ziyu Jia*, Jiaping Xiao, Chenyu Liu, Liming Zhai*, and Yang Liu  
    <span style="color:#007CB0">  *45th Annual International Conference of the IEEE Engineering in Medicine and Biology Society ( EMBC 2023 )*</span> 
 
-3. **EEG-based Sleep Staging with Hybrid Attention**  
+3. **EEG-based Sleep Staging with Hybrid Attention**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/10194990)
    - Xinliang Zhou, Chenyu Liu, Jiaping Xiao, and Yang Liu*  
    <span style="color:#007CB0">  *The 2023 IEEE Conference on Artificial Intelligence ( IEEE CAI 2023 )*</span> 
 
-4. **EENED: End-to-End Neural Epilepsy Detection based on Convolutional Transformer**  
+4. **EENED: End-to-End Neural Epilepsy Detection based on Convolutional Transformer**  [[PDF]](https://ieeexplore.ieee.org/abstract/document/10195058)
    - Chenyu Liu, Xinliang Zhou, and Yang Liu*  
    <span style="color:#007CB0">   *The 2023 IEEE Conference on Artificial Intelligence ( IEEE CAI 2023 )*</span>
 
