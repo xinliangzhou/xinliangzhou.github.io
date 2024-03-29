@@ -65,3 +65,17 @@ Journal Papers
    <!-- *Under Review and Submitted to IEEE Transactions on Neural Cybernetics (IEEE TCYB)* -->
 
 
+Academic Services
+======
+
+Reviewer for Academic Journals
+------
+- IEEE Transactions on Neural Systems and Rehabilitation Engineering (IEEE TNSRE)
+- IEEE Transactions on Computational Social Systems (IEEE TCSS)
+- Bentham Science Current Bioinformatics
+
+Reviewer for Academic Conferences
+------  
+- ACM Multimedia (ACM MM)
+- International Conference on Learning Representations (ICLR)
+- The Annual IEEE International Conference on Data Engineering (ICDE)
