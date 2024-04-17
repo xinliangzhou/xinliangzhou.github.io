@@ -25,6 +25,11 @@ Conference Papers
 1. VBH-GNN: Variational Bayesian Heterogeneous Graph Neural Networks for Cross-subject Emotion Recognition [[PDF]](https://openreview.net/pdf?id=EArTDUmILF) 
    - Chenyu Liu <sup>†</sup>, **Xinliang Zhou** <sup>†</sup>, Zhengri Zhu, Liming Zhai, Ziyu Jia<sup>*</sup>, and Yang Liu<br>
   <span style="color:#007CB0">*The Twelfth International Conference on Learning Representations ( ICLR 2024 )*</span> 
+
+2. VSGT: Variational Spatial and Gaussian Temporal Graph Models for EEG-based Emotion Recognition     [[PDF]](https://www.researchgate.net/publication/379731227_VSGT_Variational_Spatial_and_Gaussian_Temporal_Graph_Models_for_EEG-based_Emotion_Recognition#fullTextFileContent)
+   - Chenyu Liu <sup>†</sup>, **Xinliang Zhou** <sup>†</sup>, Jiaping Xiao, Zhengri Zhu,  Liming Zhai, Ziyu Jia<sup>*</sup>, and Yang Liu<br>
+  <span style="color:#007CB0">*The 33rd International Joint Conference on Artificial Intelligence ( IJCAI 2024 )*</span> 
+
  
 
 2. An EEG Channel Selection Framework for Driver Drowsiness Detection via Interpretability Guidance  [[PDF]](https://ieeexplore.ieee.org/abstract/document/10341126)
@@ -43,8 +48,7 @@ Conference Papers
     - Chenyu Liu <sup>†</sup>, **Xinliang Zhou** <sup>†</sup>, Yihao Wu, Ruizhi Yang, Liming Zhai, Ziyu Jia, and Yang Liu* 
     <!-- *Under Review and Submitted to the 33rd International Joint Conference on Artificial Intelligence ( IJCAI 2024 )* -->
 
-6. VSGT: Variational Spatial and Gaussian Temporal Graph Models for EEG-based Emotion Recognition     ( *Preprint* )
-    - Chenyu Liu <sup>†</sup>, **Xinliang Zhou** <sup>†</sup>, Jiaping Xiao, Liming Zhai, Ziyu Jia, and Yang Liu  
+
     <!-- *Under Review and Submitted to a Top Tier Double Blind Conference* -->
 
 
