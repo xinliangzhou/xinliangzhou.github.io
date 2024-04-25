@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year (Final year) PhD candidate at Nanyang Technological University (NTU), Singapore, developing innovative time series data mining, machine learning, and deep learning methods. My research focuses on advancing interpretable and robust artificial intelligence algorithms for physiological time series analysis, with particular interest in Electroencephalography (EEG) based Brain Computer Interfaces. Through my PhD work, I aim to create generalizable frameworks for reliable and trustworthy AI systems that can enable real-world healthcare and neural engineering applications. <a href="https://entuedu-my.sharepoint.com/:b:/g/personal/xinliang001_e_ntu_edu_sg/EcNb70a8X09Np2HdGdGSHUYBNMUqxCI4gmqK2lhxjnr4bQ?e=ydVdTe" style="color: pink;">Resume Here</a>
+I am a third year (Final year) PhD candidate at Nanyang Technological University (NTU), Singapore, developing innovative time series data mining, machine learning, and deep learning methods. My research focuses on advancing interpretable and robust artificial intelligence algorithms for physiological time series analysis, with particular interest in Electroencephalography (EEG) based Brain Computer Interfaces. Through my PhD work, I aim to create generalizable frameworks for reliable and trustworthy AI systems that can enable real-world healthcare and neural engineering applications. <a href="https://entuedu-my.sharepoint.com/:b:/g/personal/xinliang001_e_ntu_edu_sg/EXi6g9ocoV5Dvu4gEl7xDNABudsQUTPBSFp8TQy81MAPqA?e=aphIS1" style="color: pink;">Resume Here</a>
 
   <span style="color: #F08080">*I'm open to any related collaboration, so feel free to contact me.*</span>
 
