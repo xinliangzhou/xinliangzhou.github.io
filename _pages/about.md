@@ -94,7 +94,7 @@ Reviewer for Academic Conferences
 ------  
 - ACM Multimedia (*ACM MM*)
 - International Conference on Learning Representations (*ICLR*)
-- The Annual IEEE International Conference on Data Engineering (*ICDE*)
+- IEEE International Conference on Data Mining (*ICDM*)
 
 <!-- <br>
 <hr style="border: none; height: 2px; color: black; background-color: black;" />  -->
