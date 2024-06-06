@@ -54,18 +54,21 @@ Conference Papers
 
 Journal Papers
 ------
-1. Hybrid Spiking Neural Network for Sleep Electroencephalogram Signals  [[PDF]](https://link.springer.com/article/10.1007/s11432-021-3380-1)
+
+1. Learning Robust Global-Local Representations from EEG for Neural Epilepsy Detection  [[PDF]](https://ieeexplore.ieee.org/abstract/document/10541111)
+   - **Xinliang Zhou**, Chenyu Liu, Ruizhi Yang, Liangwei Zhang, Liming Zhai, Ziyu Jia*, and Yang Liu  
+   <span style="color:#007CB0">*IEEE Transactions on Neural Artificial Intelligence (IEEE TAI)*</span>
+
+2. Hybrid Spiking Neural Network for Sleep Electroencephalogram Signals  [[PDF]](https://link.springer.com/article/10.1007/s11432-021-3380-1)
    - Ziyu Jia, Junyu Ji, __Xinliang Zhou__*, and Yuhan Zhou  
   <span style="color:#007CB0">    *Science China Information Sciences 65.4 ( 2022 ): 140403.*</span>
 
-2. Interpretable and Robust AI in EEG Systems: A Survey  [[Preprint]](https://arxiv.org/pdf/2304.10755.pdf)
+3. Interpretable and Robust AI in EEG Systems: A Survey  [[Preprint]](https://arxiv.org/pdf/2304.10755.pdf)
    - **Xinliang Zhou**, Chenyu Liu, Liming Zhai, Ziyu Jia, Cuntai Guan, and Yang Liu* 
    <!-- *Under Review and Submitted to IEEE Transactions on Neural Networks and Learning Systems (IEEE TNNLS)* -->
 
 
-3. Learning Robust Global-Local Representations from EEG for Neural Epilepsy Detection  [[Preprint]](https://www.researchgate.net/publication/379323759_Learning_Robust_Global-Local_Representation_from_EEG_for_Neural_Epilepsy_Detection)
-   - **Xinliang Zhou**, Chenyu Liu, Ruizhi Yang, Liangwei Zhang, Liming Zhai, Ziyu Jia*, and Yang Liu  
-   <!-- *Under Review and Submitted to IEEE Transactions on Neural Artificial Intelligence (IEEE TAI)* -->
+
 
 4. Learning Relational Probabilistic Graphs for EEG-based Emotion Recognition  [[Preprint]](https://www.researchgate.net/publication/379325479_Learning_Relational_Probabilistic_Graphs_for_EEG-based_Emotion_Recognition)
    - **Xinliang Zhou**, Chenyu Liu, Jiaping Xiao, Liming Zhai, Ziyu Jia*, and Yang Liu  
@@ -92,7 +95,8 @@ Reviewer for Academic Journals
 
 Reviewer for Academic Conferences
 ------  
-- ACM Multimedia (*ACM MM*)
+- ACM International Conference on Multimedia (*ACM MM*)
+- Annual Conference on Neural Information Processing Systems (*NeurIPS*)
 - International Conference on Learning Representations (*ICLR*)
 - IEEE International Conference on Data Mining (*ICDM*)
 
