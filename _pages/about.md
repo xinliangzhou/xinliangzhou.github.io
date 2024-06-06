@@ -57,7 +57,7 @@ Journal Papers
 
 1. Learning Robust Global-Local Representations from EEG for Neural Epilepsy Detection  [[PDF]](https://ieeexplore.ieee.org/abstract/document/10541111)
    - **Xinliang Zhou**, Chenyu Liu, Ruizhi Yang, Liangwei Zhang, Liming Zhai, Ziyu Jia*, and Yang Liu  
-   <span style="color:#007CB0">*IEEE Transactions on Neural Artificial Intelligence (IEEE TAI)*</span>
+   <span style="color:#007CB0">*IEEE Transactions on Neural Artificial Intelligence (IEEE TAI 2024)*</span>
 
 2. Hybrid Spiking Neural Network for Sleep Electroencephalogram Signals  [[PDF]](https://link.springer.com/article/10.1007/s11432-021-3380-1)
    - Ziyu Jia, Junyu Ji, __Xinliang Zhou__*, and Yuhan Zhou  
