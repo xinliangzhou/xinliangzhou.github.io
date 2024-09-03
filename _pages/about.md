@@ -8,7 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a third year (Final year) PhD candidate at Nanyang Technological University (NTU), Singapore, developing innovative time series data mining, machine learning, and deep learning methods. My research focuses on advancing interpretable and robust artificial intelligence algorithms for physiological time series analysis, with particular interest in Electroencephalography (EEG) based Brain Computer Interfaces. Through my PhD work, I aim to create generalizable frameworks for reliable and trustworthy AI systems that can enable real-world healthcare and neural engineering applications. <a href="https://entuedu-my.sharepoint.com/:b:/g/personal/xinliang001_e_ntu_edu_sg/EXi6g9ocoV5Dvu4gEl7xDNABudsQUTPBSFp8TQy81MAPqA?e=aphIS1" style="color: pink;">Resume Here</a>
+I am a third year (Final year) PhD candidate at Nanyang Technological University (NTU), Singapore, developing innovative time series data mining, machine learning, and deep learning methods. My research focuses on advancing interpretable and robust artificial intelligence algorithms for physiological time series analysis, with particular interest in Electroencephalography (EEG) based Brain Computer Interfaces. Through my PhD work, I aim to create generalizable frameworks for reliable and trustworthy AI systems that can enable real-world healthcare and neural engineering applications.
+
+ <!-- <a href="https://entuedu-my.sharepoint.com/:b:/g/personal/xinliang001_e_ntu_edu_sg/EXi6g9ocoV5Dvu4gEl7xDNABudsQUTPBSFp8TQy81MAPqA?e=aphIS1" style="color: pink;">Resume Here</a> -->
 
   <span style="color: #F08080">*I'm open to any related collaboration, so feel free to contact me.*</span>
 
@@ -23,11 +25,11 @@ Selected Publications
 Conference Papers
 ------
 1. VBH-GNN: Variational Bayesian Heterogeneous Graph Neural Networks for Cross-subject Emotion Recognition [[PDF]](https://openreview.net/pdf?id=EArTDUmILF) 
-   - Chenyu Liu <sup>†</sup>, **Xinliang Zhou** <sup>†</sup>, Zhengri Zhu, Liming Zhai, Ziyu Jia<sup>*</sup>, and Yang Liu<br>
+   - **Xinliang Zhou** <sup>†</sup>, Chenyu Liu <sup>†</sup>,  Zhengri Zhu, Liming Zhai, Ziyu Jia<sup>*</sup>, and Yang Liu<br>
   <span style="color:#007CB0">*The Twelfth International Conference on Learning Representations ( ICLR 2024 )*</span> 
 
 2. VSGT: Variational Spatial and Gaussian Temporal Graph Models for EEG-based Emotion Recognition     [[PDF]](https://www.researchgate.net/publication/379731227_VSGT_Variational_Spatial_and_Gaussian_Temporal_Graph_Models_for_EEG-based_Emotion_Recognition#fullTextFileContent)
-   - Chenyu Liu <sup>†</sup>, **Xinliang Zhou** <sup>†</sup>, Jiaping Xiao, Zhengri Zhu,  Liming Zhai, Ziyu Jia<sup>*</sup>, and Yang Liu<br>
+   - **Xinliang Zhou** <sup>†</sup>, Chenyu Liu <sup>†</sup>,  Jiaping Xiao, Zhengri Zhu,  Liming Zhai, Ziyu Jia<sup>*</sup>, and Yang Liu<br>
   <span style="color:#007CB0">*The 33rd International Joint Conference on Artificial Intelligence ( IJCAI 2024 )*</span> 
 
  
@@ -89,6 +91,7 @@ Academic Services
 
 Reviewer for Academic Journals
 ------
+- IEEE Journal of Biomedical of Health Informatics (*IEEE JBHI*)
 - IEEE Transactions on Neural Systems and Rehabilitation Engineering (*IEEE TNSRE*)
 - IEEE Transactions on Computational Social Systems (*IEEE TCSS*)
 - Bentham Science Current Bioinformatics
@@ -99,6 +102,7 @@ Reviewer for Academic Conferences
 - Annual Conference on Neural Information Processing Systems (*NeurIPS*)
 - International Conference on Learning Representations (*ICLR*)
 - IEEE International Conference on Data Mining (*ICDM*)
+- IEEE International Conference on Systems, Man, and Cybernetics  (*SMC*)
 
 <!-- <br>
 <hr style="border: none; height: 2px; color: black; background-color: black;" />  -->
