@@ -91,18 +91,18 @@ Academic Services
 
 Reviewer for Academic Journals
 ------
-- IEEE Journal of Biomedical of Health Informatics (*IEEE JBHI*)
-- IEEE Transactions on Neural Systems and Rehabilitation Engineering (*IEEE TNSRE*)
-- IEEE Transactions on Computational Social Systems (*IEEE TCSS*)
+- IEEE Journal of Biomedical of Health Informatics ( *IEEE JBHI* )
+- IEEE Transactions on Neural Systems and Rehabilitation Engineering ( *IEEE TNSRE* )
+- IEEE Transactions on Computational Social Systems ( *IEEE TCSS* )
 - Bentham Science Current Bioinformatics
 
 Reviewer for Academic Conferences
 ------  
-- ACM International Conference on Multimedia (*ACM MM*)
-- Annual Conference on Neural Information Processing Systems (*NeurIPS*)
+- ACM International Conference on Multimedia ( *ACM MM* )
+- Annual Conference on Neural Information Processing Systems ( *NeurIPS* )
 - International Conference on Learning Representations (*ICLR*)
-- IEEE International Conference on Data Mining (*ICDM*)
-- IEEE International Conference on Systems, Man, and Cybernetics  (*SMC*)
+- IEEE International Conference on Data Mining ( *ICDM* )
+- IEEE International Conference on Systems, Man, and Cybernetics  ( *SMC* )
 
 <!-- <br>
 <hr style="border: none; height: 2px; color: black; background-color: black;" />  -->
