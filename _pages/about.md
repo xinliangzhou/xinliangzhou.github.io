@@ -80,18 +80,6 @@ hr {
 }
 </style>
 
-<header class="site-header">
-  <div class="wrapper">
-    <h1 class="site-title">
-      <a href="#">Xinliang Zhou</a>
-    </h1>
-    <nav class="site-nav">
-      <a href="#" class="page-link">Home</a>
-      <a href="#" class="page-link">Publications</a>
-      <a href="#" class="page-link">Services</a>
-    </nav>
-  </div>
-</header>
 
 <div class="page__content">
   <div style="text-align: justify;">
