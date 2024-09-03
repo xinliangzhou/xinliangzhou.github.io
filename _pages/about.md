@@ -71,14 +71,14 @@ I'm open to any related collaboration, so feel free to contact me.
 ## Academic Services
 
 ### Reviewer for Academic Journals
-- IEEE Journal of Biomedical of Health Informatics (*IEEE JBHI*)
-- IEEE Transactions on Neural Systems and Rehabilitation Engineering (*IEEE TNSRE*)
-- IEEE Transactions on Computational Social Systems (*IEEE TCSS*)
+- IEEE Journal of Biomedical of Health Informatics ( *IEEE JBHI* )
+- IEEE Transactions on Neural Systems and Rehabilitation Engineering ( *IEEE TNSRE* )
+- IEEE Transactions on Computational Social Systems ( *IEEE TCSS* )
 - Bentham Science Current Bioinformatics
 
 ### Reviewer for Academic Conferences
-- ACM International Conference on Multimedia (*ACM MM*)
-- Annual Conference on Neural Information Processing Systems (*NeurIPS*)
-- International Conference on Learning Representations (*ICLR*)
-- IEEE International Conference on Data Mining (*ICDM*)
-- IEEE International Conference on Systems, Man, and Cybernetics (*SMC*)
+- ACM International Conference on Multimedia ( *ACM MM* )
+- Annual Conference on Neural Information Processing Systems ( *NeurIPS* )
+- International Conference on Learning Representations ( *ICLR* )
+- IEEE International Conference on Data Mining ( *ICDM* )
+- IEEE International Conference on Systems, Man, and Cybernetics ( *SMC* )
